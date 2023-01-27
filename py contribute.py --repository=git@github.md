@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:devstar0703/SOLSTICE-Web-app.git -sd="2021/02/25, 18:54:33" -nw
